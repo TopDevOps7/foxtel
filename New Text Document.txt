@@ -1,0 +1,12 @@
+for the web developer:
+his admin portal:
+https://portal.foxtelpbx.com:2083
+
+user = foxtelp / password = SNAtransINC123qwe
+
+Ok site is ready
+
+www.foxtelpbx.com/wp-admin
+
+User: foxtelpbxadmin
+Pass: SNAtransINC123qwe
